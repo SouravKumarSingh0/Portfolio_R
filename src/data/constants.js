@@ -9,7 +9,7 @@ export const Bio = {
     "I am an adept learner with a passion for delving into the depths of cutting-edge technology. My areas of expertise include Cloud Technology and Java Full Stack Development, where I've honed my skills to create innovative solutions and user- friendly interfaces.",
   github: "https://github.com/SouravKumarSingh0",
   resume:
-    "https://drive.google.com/file/d/1Tsr77NKjnJrEvnhKmQnZ7_EMDsHZi2wy/view?usp=sharing",
+    "https://drive.google.com/file/d/1ATQfFlgn3pdqmM_u90VERmiXMDVrRoKR/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/sourav-kumar-singh-10a13b1ab/",
   facebook: "https://www.facebook.com/souravsingh24"
 };
