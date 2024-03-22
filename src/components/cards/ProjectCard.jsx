@@ -82,11 +82,13 @@ const Description = styled.div`
   -webkit-box-orient: vertical;
   text-overflow: ellipsis;
 `;
+
 const Members = styled.div`
   display: flex;
   align-items: center;
   padding-left: 10px;
 `;
+
 const Avatar = styled.img`
   width: 38px;
   height: 38px;
@@ -96,12 +98,14 @@ const Avatar = styled.img`
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   border: 3px solid ${({ theme }) => theme.card};
 `;
+/*
 const Button = styled.a`
   color: ${({ theme }) => theme.primary};
   text-decoration: none;
   font-weight: 600;
   text-align: center;
 `;
+*/
 
 const ProjectCard = ({ project, setOpenModal }) => {
   return (
