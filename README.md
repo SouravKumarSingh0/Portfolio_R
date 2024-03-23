@@ -1,7 +1,7 @@
 # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
-### Weblink: [Live Website](https://rishavchanda.netlify.app)
+### Weblink: [Live Website](https://souravkumarsingh0.github.io/Portfolio_R/)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -32,7 +32,7 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 To run this portfolio locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/SouravKumarSingh0/Portfolio_R`
-2. Navigate to the project directory: `cd Portfolio_R`
+2. Navigate to the project directory: `cd portfolio-r`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
