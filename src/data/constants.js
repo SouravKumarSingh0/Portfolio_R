@@ -1,17 +1,13 @@
 export const Bio = {
-  name: "Sourav Kumar Singh",
-  roles: [
-    "Full Stack Developer",
-    "Learner :)",
-    "Programmer",
-  ],
+  name: "Sourav Singh",
+  roles: ["Full Stack Developer", "Learner :)", "Programmer"],
   description:
     "I am an adept learner with a passion for delving into the depths of cutting-edge technology. My areas of expertise include Cloud Technology and Java Full Stack Development, where I've honed my skills to create innovative solutions and user- friendly interfaces.",
   github: "https://github.com/SouravKumarSingh0",
   resume:
     "https://drive.google.com/file/d/1ATQfFlgn3pdqmM_u90VERmiXMDVrRoKR/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/sourav-kumar-singh-10a13b1ab/",
-  facebook: "https://www.facebook.com/souravsingh24"
+  facebook: "https://www.facebook.com/souravsingh24",
 };
 
 export const skills = [
@@ -115,7 +111,7 @@ export const skills = [
       },
     ],
   },
-  
+
   {
     title: "Others",
     skills: [
@@ -165,7 +161,7 @@ export const experiences = [
       "SpringBoot",
       "React Js",
     ],
-     doc: "https://drive.google.com/file/d/1KEu0zyxO6MSw5ndzcP3ru-Pgx2UdH8mu/view?usp=sharing",
+    doc: "https://drive.google.com/file/d/1KEu0zyxO6MSw5ndzcP3ru-Pgx2UdH8mu/view?usp=sharing",
   },
   {
     id: 2,
@@ -286,7 +282,8 @@ export const projects = [
     title: "Face Recognition Attendance System",
     description:
       "This Python project utilizes OpenCV for face recognition. It begins by training a LBPH (Local Binary Patterns Histograms) face recognizer on a dataset of labeled face images. Then, it continuously captures video frames, detects faces using a Haar cascade classifier, and predicts the identities of the detected faces using the trained recognizer, displaying the results in real-time.",
-    image: "https://repository-images.githubusercontent.com/272034449/90e10e00-b308-11ea-9e64-3cc1cd32f799",
+    image:
+      "https://repository-images.githubusercontent.com/272034449/90e10e00-b308-11ea-9e64-3cc1cd32f799",
     tags: ["Python", "OpenCV", "NumPy"],
     category: "Others",
     github:
@@ -349,8 +346,7 @@ export const projects = [
     //date: "Jan 2021",
     description:
       "Created an application using TensorFlow and Google Cloud Platform (GCP) to detect multiple objects in an uploaded image. Utilized Pre-trained object detection models and Object detection APIs.",
-    image:
-      "https://i.ytimg.com/vi/oRWxrN-DONg/maxresdefault.jpg",
+    image: "https://i.ytimg.com/vi/oRWxrN-DONg/maxresdefault.jpg",
     tags: ["Python", "Google Cloud Platform", "TensorFlow", "Flask", "API"],
     category: "Cloud",
     github:
@@ -358,4 +354,3 @@ export const projects = [
     //webapp: "https://github.com/SouravKumarSingh0/Object-Detection-Web-Application",
   },
 ];
-
